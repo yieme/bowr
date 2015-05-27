@@ -30,7 +30,7 @@
     "dias": "^0.5.4",
     "fsurl": "^0.1.3",
     "lru-cache": "^2.6.4",
-    "middle-server": "^0.3.2",
+    "middle-server": "^0.3.3",
     "proxy-cache-file": "^0.5.8",
     "semver-compare": "^1.0.0",
     "serve-favicon": "^2.2.1"
